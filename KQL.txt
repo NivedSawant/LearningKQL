@@ -1,3 +1,6 @@
+REFRENCE - https://github.com/KQLCafe/kqlcafecommunity/blob/main/LearnKQL/KQLSamples.kql - Alex Verboon
+
+
 // contains
 search "*kustoking*"
 
